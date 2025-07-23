@@ -34,7 +34,7 @@ This library management system allows librarians to manage books, members, and b
 git clone [repository-url]
 
 # Navigate to project directory
-cd library-manager
+cd library-management-system
 
 # Install dependencies
 npm install
